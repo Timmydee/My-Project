@@ -1,0 +1,46 @@
+body{
+    width: 720px;
+    padding: 0;
+    background: #fff;
+    border: 1px solid blue;
+}
+h1{
+    font-size: 36px;
+    background: #2e354f;
+    padding: 80px 60px 30px 50px;
+    color: #fff; 
+    margin-top: 0px; 
+}
+section{
+    margin:0 0;
+    width: 520px;
+    padding-left: 50px;
+}
+h3{
+    color: #ef5839;
+    font-size: 24px;
+}
+div {
+    background: #2e354f;
+    padding: 20px 40px;
+}
+.light{
+    color: #fff;
+}
+.btn{
+    text-decoration: none;
+    padding-left: 40px;  
+}
+.btn-light{
+    background: #ef5839;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+.btn-accent{
+    background: #fff;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+.btn-accent:hover,.btn-light:hover{
+    color: green;
+}
